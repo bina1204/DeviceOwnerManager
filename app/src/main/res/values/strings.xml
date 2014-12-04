@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeviceOwnerManager</string>
+    <string name="title_app_hidden">Application Hidden</string>
+    <string name="message_not_device_owner">This is not Device Owner app.</string>
+
+</resources>
